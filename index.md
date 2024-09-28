@@ -1,11 +1,14 @@
 ---
 layout: default
 ---
-Introducing **ENXI Guitars**, where tradition meets innovation. We craft premium electric guitars that don’t just sound extraordinary – they come with their own unique, one-of-a-kind NFT. **By scanning the QR code** on your guitar, you unlock access to a digital certificate that’s more than just a representation – it’s the guitar’s **digital twin**, embedded in the blockchain for **authenticity and ownership**. Here’s what you get with your guitar’s NFT:
 
-- **Guitar Specs at Your Fingertips**: Instantly access the full specifications of your guitar – from the **type of wood**, pickups, and tuning machines to the finer details of its **craftsmanship**.
-  
-- **Provenance of Parts**: Know exactly where your guitar’s parts came from. The NFT stores details about the **origin of the wood**, the brand and source of components, and even **artisan notes** from the makers, ensuring your guitar’s story is captured forever.
+Introducing **ENXI Guitars**, where tradition meets innovation. We craft premium electric guitars that don’t just sound extraordinary – they come with their own unique, one-of-a-kind NFT. **By scanning the NFC chip** inside your guitar, you can instantly mint a digital certificate – your guitar’s **digital twin**, embedded in the blockchain for **authenticity and ownership**. Here’s what you get with your guitar’s NFT:
+
+- **Guitar Specs at Your Fingertips**: Instantly access the full specifications of your guitar – from the **type of wood**, pickups, and tuning machines to the finer details of its **craftsmanship**. All this information is stored in the NFT and readily available through a simple scan.
+
+- **Provenance of Parts**: Know exactly where your guitar’s parts came from. The NFT stores details about the **origin of the wood**, the brand and source of components, and even **artisan notes** from the makers, preserving the history of your instrument.
+
+- **Modifications Recorded**: Any modifications you make to your guitar will be recorded as part of the NFT’s evolving history. While these changes won’t be updated in the NFC chip itself, the NFT ensures an **immutable record** of all updates to the guitar’s specs.
 
 - **Ownership Authentication**: Your NFT doubles as a **certificate of authenticity** and ownership. Easily prove your guitar is an original, exclusive to you. In the future, buyers can verify the provenance through the NFT, making resales transparent and trustworthy.
 
